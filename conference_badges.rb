@@ -27,6 +27,8 @@ def printer(arr)
     puts badge
   end
 end
+
+
   
   
 #"Hello, Edsger! You'll be assigned to room 1!"
