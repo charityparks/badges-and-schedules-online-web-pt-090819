@@ -30,7 +30,6 @@ end
 
 def assign_rooms(array)
   array.each do |assignment|
-    puts assignment
   end
 end
 
