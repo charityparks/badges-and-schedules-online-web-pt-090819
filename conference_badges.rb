@@ -34,4 +34,3 @@ assign_rooms(array).each do |assignment|
 
   
   
-#"Hello, Edsger! You'll be assigned to room 1!"
