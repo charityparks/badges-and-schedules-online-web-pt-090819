@@ -8,9 +8,7 @@ def batch_badge_creator (name)
   end
 end
 
-def batch_badge_creator (name)
-  name = ["Hello, my name is Johnny."]
-end
+def 
 
 def assign_rooms(array)
   new_array = []
