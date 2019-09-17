@@ -22,8 +22,11 @@ def assign_rooms(arr)
   return new_array  
 end
 
-def printer (array)
-  
+
+def printer(arr)
+  batch_badge_creator(arr).each do |badge|
+    puts badge
+  end
   
   
 #"Hello, Edsger! You'll be assigned to room 1!"
