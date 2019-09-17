@@ -25,4 +25,5 @@ end
 def printer (array)
   
   
+  
 #"Hello, Edsger! You'll be assigned to room 1!"
