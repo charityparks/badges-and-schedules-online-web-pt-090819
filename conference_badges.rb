@@ -28,7 +28,8 @@ def printer(array)
   end
 end
 
-def assign_rooms(array).each do |assignment|
+def assign_rooms(array)
+  array.each do |assignment|
     puts assignment
   end
 end
