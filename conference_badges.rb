@@ -8,7 +8,13 @@ def batch_badge_creator (name)
   end
 end
 
-def 
+def batch_badge_creator(arr)
+  new_array = []
+  arr.each do |name|
+    new_array.push("Hello, my name is #{name}.")
+  end
+  return new_array
+end
 
 def assign_rooms(array)
   new_array = []
