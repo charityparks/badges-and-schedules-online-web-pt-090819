@@ -32,6 +32,7 @@ assign_rooms(arr).each do |assignment|
     puts assignment
   end
 end
+
   
   
 #"Hello, Edsger! You'll be assigned to room 1!"
